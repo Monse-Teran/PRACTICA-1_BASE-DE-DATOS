@@ -1,1 +1,2 @@
 "Notas iniciales de la practica de bases de datos" 
+"Actualizando notas desde la nueva rama" 
