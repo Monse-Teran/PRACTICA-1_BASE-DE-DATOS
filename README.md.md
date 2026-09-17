@@ -5,14 +5,15 @@
 
 
 Lopez Teran Monserrat
+N.boleta: 2023630525
 
 Mata Lopez Jennifer
 
-Ingeniería en Sistemas computacionales
+Ingenierï¿½a en Sistemas computacionales
 
 Grupo: 3CV4
 
-índice:
+ï¿½ndice:
 
 1.Introduccion
 
