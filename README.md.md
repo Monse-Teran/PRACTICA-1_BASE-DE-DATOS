@@ -16,13 +16,13 @@ Grupo: 3CV4
 Indice:
 
 
-3. [Documentos de investigación](docs/investigacion-bases-de-datos.pdf)
-4. [Estado del arte](docs/estado-del-arte.pdf)
-5. [Caso de estudio](docs/caso-de-studios.pdf)
-6. [Modelo](modelo/diagrama-er.png)
-7. [Entorno (Docker Compose)](entorno/compose.yaml)
-9. [Apuntes generales](apuntes.txt)
-10. [Consultas SQL](consultas.sql)
+1. [Documentos de investigación](docs/Investigacion_Bases_de_Datos.pdf)
+2. [Estado del arte](docs/Estado-del-Erte.pdf)
+3. [Caso de estudio](docs/Caso-de-Estudios.pdf)
+4. [Modelo](modelo/diagrama-er.png..png)
+5. [Entorno (Docker Compose)](entorno/compose.yaml)
+6. [Apuntes generales](apuntes.txt)
+7. [Consultas SQL](consultas.sql)
 
 
 
