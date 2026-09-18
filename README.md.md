@@ -16,7 +16,7 @@ Grupo: 3CV4
 Indice:
 
 
-1. [Documentos de investigación](docs/Investigacion_Bases_de_Datos.pdf)
+1. [Documentos de investigación](https://github.com/Monse-Teran/PRACTICA-1_BASE-DE-DATOS/blob/main/docs/Investigacion_Bases_De_Datos.pdf)
 2. [Estado del arte](https://github.com/Monse-Teran/PRACTICA-1_BASE-DE-DATOS/blob/main/docs/Estado-del-Arte.pdf)
 3. [Caso de estudio](https://github.com/Monse-Teran/PRACTICA-1_BASE-DE-DATOS/blob/main/docs/Caso-de-Estudio.pdf)
 4. [Modelo](modelo/diagrama-er.png..png)
