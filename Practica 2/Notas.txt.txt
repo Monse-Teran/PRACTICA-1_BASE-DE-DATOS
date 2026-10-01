@@ -1,0 +1,23 @@
+Inicio de la práctica 2
+
+
+En el 4.1 (Requisitos): Los usuarios se dividen en categorías (regulares y premium) con privilegios distintos.
+
+En el 4.2 (Conceptos): Se formaliza igual mediante la Jerarquía de Generalización y Especialización con su restricción disjunta y parcial, y sus atributos propios (Cliente_Gratuito y Cliente_Suscrito).
+
+
+En el 4.1 (Requisitos): Indicamos que el historial de reproducción y el reparto dependen de las entidades principales y se borran en cascada.
+
+En el 4.2 (Conceptos): Se definen formalmente las Dos entidades débiles (Historial_Reproduccion y Detalle_Elenco) especificando su tipo de dependencia.
+
+
+
+En el 4.1 (Requisitos): Establecemos que el nombre del usuario se compone de partes y que las películas tienen múltiples idiomas.
+
+En el 4.2 (Conceptos): Se integran explícitamente como el Atributo compuesto (nombre en nombres y apellidos) y el Atributo multivaluado (idiomas_audio).
+
+
+
+En el 4.1 (Requisitos): Explicamos cómo interactúan los usuarios al escribir reseñas y las películas al recibirlas.
+
+En el 4.2 (Conceptos): Se traducen en las Tres relaciones con cardinalidad mínima y máxima expresadas formalmente en formato (mín, máx).
